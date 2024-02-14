@@ -1,5 +1,3 @@
-# mini-
-
 # File Management System <!-- omit in toc -->
 
 **Table of Contents**
